@@ -1,7 +1,9 @@
 # Assessment_demo
 
 
-## 🌐Socials
+## 🌐Environment
+
+https://computer-database.gatling.io/computers
  
 
 # 💻Note
@@ -12,6 +14,4 @@
 3. Running the high priority testcases when Smoke test
 
 4. Running the all testcases when Regression test
-
-### 
 
